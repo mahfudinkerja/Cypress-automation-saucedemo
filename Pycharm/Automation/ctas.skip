@@ -1,0 +1,44 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import time
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
+import pytest
+
+@pytest.fixture
+def driver():
+    # Set up the driver (e.g. Chrome or Firefox)
+    driver = webdriver.Firefox()
+    yield driver
+
+def test_login(driver):
+    # Navigate to Ctas Link
+    driver.get('https://satu-sim.intranet.pajak.go.id/login')
+
+    # Find the username and password fields and enter the login credentials
+    driver.find_element(By.NAME,'username').send_keys('wahyu.agungsugimartanto')
+    driver.find_element(By.NAME,'password').send_keys('Pajak123')
+    driver.find_element(By.XPATH,'/html/body/div/div/div/div/div[1]/div[2]/form/div[3]/button').click()
+    time.sleep(3)
+    driver.get('https://ctas-qa.intranet.pajak.go.id/')
+    time.sleep(5)
+
+    # case management
+    driver.find_element(By.XPATH, '//*[@id="4"]').click()
+    driver.find_element(By.XPATH,'/html/body/hom-root/div/ui-shared-header/nav[2]/ul/li[6]/ul/li[4]/a').click()
+    time.sleep(5)
+
+    # All cases
+    allCases_TIN = driver.find_element(By.XPATH,'/html/body/csm-root/div/ui-coretax-one-column-layout/div/div/div/csm-case-list/csm-case-list-grid/ui-grid/p-table/div/div[2]/table/thead/tr[2]/th[3]/p-columnfilter/div/p-columnfilterformelement/input')
+    allCases_TIN.send_keys('0013715875092000' + Keys.ENTER)
+
+    time.sleep(5)
+    allCases_CaseType = driver.find_element(By.XPATH,'/html[1]/body[1]/csm-root[1]/div[1]/ui-coretax-one-column-layout[1]/div[1]/div[1]/div[1]/csm-case-list[1]/csm-case-list-grid[1]/ui-grid[1]/p-table[1]/div[1]/div[2]/table[1]/thead[1]/tr[2]/th[5]/p-columnfilter[1]/div[1]/p-columnfilterformelement[1]/input[1]')
+    allCases_CaseType.send_keys('Refund of Legal Action Decisions' + Keys.ENTER)
+
+    time.sleep(5)
+    allCases_Date = driver.find_element(By.XPATH,'/html/body/csm-root/div/ui-coretax-one-column-layout/div/div/div/csm-case-list/csm-case-list-grid/ui-grid/p-table/div/div[2]/table/thead/tr[1]/th[9]')
+    allCases_Date.click()
+    time.sleep(3)
+    allCases_Date.click()

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3508b194-2fe9-4878-bf41-08f2941522bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Pycharm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/pages/.idea/pages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTAS/.idea/CTAS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTASPytest/.idea/CTASPytest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTASPytest/tests/travel_ban.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/.idea/Kelas_Terbuka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/.idea/dictionaries/mymac.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/10_Operasi_komparasi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/11_operasi_logika_atau_boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/12_Latihan_komparasi_dan_Logika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/13_Operator_bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/14_Operator_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/15_Pengenalan_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/16_Operasi_manipulasi_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/17_operasi_manipulasi_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/18_format_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/19_string_width_and_alignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/20_date_and_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/21_if_else_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/22_elif_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/23_latihan_percabangan_kalkulator_sederhana.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/24_Perulangan_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/25_while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/26_Continue_Pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/27_Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/28_latihan_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/29_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/30_Manipulasi_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/31_Operasi_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/32_Copy_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/33_Nested_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/34_Deep_copy_nested_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/35_Looping_dan_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/36_latihan_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/37_Tuples_dan_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/38_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/39_Operasi_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/3_cara_kerja_python_dan_bytecode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/40_Looping_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/41_Copy_Pop_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/42_MultiKeys_NestingDictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/43_Latihan_Dictionary_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/4_Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/5_tipe_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/6_casting_tipe_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/7_input_dari_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/8_dasar_aritmatika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kelas_Terbuka/kelas/9_latihan_artimatika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/.idea/day2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/tests/hallo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/pythonProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/pythonDay2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pytest1/.idea/pytest1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2hfpa3DGtCMF3Z00d5uY71QZi20" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in main.py.executor": "Run",
+    "Python tests.Python tests in mainDay3.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mymac/Documents/Dev/Pycharm/pythonDay2/tests",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3508b194-2fe9-4878-bf41-08f2941522bf" name="Changes" comment="" />
+      <created>1717995045618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717995045618</updated>
+    </task>
+    <servers />
+  </component>
+</project>

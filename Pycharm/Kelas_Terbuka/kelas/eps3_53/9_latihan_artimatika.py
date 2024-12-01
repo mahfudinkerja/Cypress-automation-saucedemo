@@ -18,17 +18,17 @@
 
 
 # fahrenheit ke kelvin
-fahrenheit = float(input("Masukan suhu dalam fahrenheit: "))
-print("suhu adalah", fahrenheit, "fahrenheit")
+fahrenheit = float( input( "Masukan suhu dalam fahrenheit: " ) )
+print( "suhu adalah", fahrenheit, "fahrenheit" )
 
 kelvin = 5 / 9 * (fahrenheit - 32) + 273.15
-print("suhu adalah", kelvin, "kelvin")
+print( "suhu adalah", kelvin, "kelvin" )
 
-print("\nENTER\n")
+print( "\nENTER\n" )
 # kelvin ke fahrenheit
 
-kelvin = float(input("Masukan suhu dalam kelvin: "))
-print("suhu adalah", kelvin, "fahrenheit")
+kelvin = float( input( "Masukan suhu dalam kelvin: " ) )
+print( "suhu adalah", kelvin, "fahrenheit" )
 
 fahrenheit = ((kelvin - 273.15) * 9 / 5 + 32)
-print("suhu adalah", fahrenheit, "fahrenheit")
+print( "suhu adalah", fahrenheit, "fahrenheit" )

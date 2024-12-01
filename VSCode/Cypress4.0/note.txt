@@ -1,0 +1,45 @@
+Basic CSS Selector Syntax
+Syntax: tagName[AttributeName = 'AttributeValue’]
+Example: input[id =’first_name’]
+
+CSS Selector: Select by ID
+Syntax: #elementID
+Example: #first_name
+
+Syntax: tagName#elementID
+Example: input#first_name
+
+CSS Selector: Select by Class name
+Syntax:.elementID
+Example: .signup
+Syntax: tagName.elementID
+Example: input.signup
+
+CSS Selector Using other webelement Attributes
+Syntax: tagName[AttributeName =’AttributeValue’]
+Example: input[value =’sign me up’]
+
+
+
+Advanced CSS Selectors(Using mix of Tag, ID and Class name) Syntax: tagName.classValue[AttributeName = 'AttributeValue'] Syntax:tagName#idValue[AttributeName = 'AttributeValue']
+
+Example: input.signup[type = 'submit'][value = 'Sign me up ']
+Example: input#submit_btn[type = 'submit'][value = 'Sign me up ']
+
+CSS Selector - substring: -
+
+    Match prefix of the text
+Example: input[name ^= 'country_c']
+
+Match suffix of the text
+Example: input[name = 'y_client']
+Match sub - string of the text Example: input[name *= 'try_cl']
+
+
+
+Finding Child or SUBCHILD elements
+
+Direct Child(Child combinator(>) is used to select direct child)
+Syntax: tagName[AttributeName = 'AttributeValue'] > tagName[AttributeName = 'AttributeValue'] Example: select#country option[value = 'AU']
+Child or Subchild(Descendant combinator() is used to select Child or SubChild)
+Syntax: tagName[AttributeName = 'AttributeValue'] tagName[AttributeName = 'AttributeValue'] Example: form#deorg_form div

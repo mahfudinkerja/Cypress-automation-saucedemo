@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Checkout Orders</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>731863f1-9a06-4ab4-8ce0-782673bf36b1</testCaseGuid>
+</TestCaseEntity>

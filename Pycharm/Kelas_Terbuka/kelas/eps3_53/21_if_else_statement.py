@@ -1,6 +1,6 @@
 # If else statement
 
-nama = input("Siapa nama kamu ?")
+nama = input( "Siapa nama kamu ?: " )
 #
 # if nama == "ucup":
 #     print("Kamu kece abieezzzz!")
@@ -8,7 +8,9 @@ nama = input("Siapa nama kamu ?")
 # print(f"Terimakasih {nama}")
 
 if nama == "otong":
-    print("kamu benar adalah otong")
+	print( "kamu benar adalah otong" )
+
 else:
-    print("kamu bukan otong")
-print("program finish")
+	print( "kamu bukan otong" )
+
+print( "program finish" )
